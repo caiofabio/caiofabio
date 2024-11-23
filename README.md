@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on C developer in POS systems.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Flutter/LLM.
 - 📫 How to reach me: Error $(Not Allowed).
 
 <a href="https://github.com/caiofabio/github-readme-stats">
