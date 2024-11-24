@@ -5,10 +5,10 @@
 - 📫 How to reach me: Error $(Not Allowed).
 
 <a href="https://github.com/caiofabio/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caiofabio&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats-caiofabio.vercel.app/api?username=caiofabio&theme=dark" />
 </a>
-<a href="https://github.com/caiofabio/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiofabio&layout=compact&langs_count=8&card_width=320&theme=dark" />
+<a href="https://github.com/caiofabio/convoychat">  
+  <img height=200 align="center" src="https://github-readme-stats-caiofabio.vercel.app/api/top-langs?username=caiofabio&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 <div style="display: inline_block"><br>
